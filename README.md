@@ -1,6 +1,6 @@
 # Sales Prediction System
 
-A machine learning-based Sales Prediction System that analyzes historical sales data and predicts future sales using Python, Pandas, Scikit-learn, and Streamlit.
+A machine learning-based Sales Prediction System that predicts sales based on TV, Radio, and Newspaper advertising budgets using Multiple Linear Regression and provides an interactive Streamlit interface for analysis and prediction.
 
 ## Technologies Used
 
