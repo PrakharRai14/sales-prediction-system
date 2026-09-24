@@ -179,23 +179,24 @@ The trained machine learning model then generates the predicted sales value.
 ---
 
 📁 Project Structure
+📁 Project Structure
 
-sales-prediction-system/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-├── data/
-│   └── Advertising.csv
-│
-└── output/
-    ├── actual_vs_predicted.png
-    ├── correlation_heatmap.png
-    ├── residual_plot.png
-    ├── sales_histogram.png
-    └── scatter_plots.png
+sales-prediction-system
+
+app.py
+requirements.txt
+README.md
+.gitignore
+
+data
+  Advertising.csv
+
+output
+  actual_vs_predicted.png
+  correlation_heatmap.png
+  residual_plot.png
+  sales_histogram.png
+  scatter_plots.png
 
 
 ---
